@@ -1,0 +1,247 @@
+/*s srtays for small*/
+/*n srtays for normal*/
+/*l srtays for large*/
+
+.col-gutter-z-btm-left {
+    padding-left: 0;
+}
+
+.col-gutter-z-btm-right {
+    padding-right: 0;
+}
+
+.col-gutter-z-btm-both {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.col-gutter-s-btm-left {
+    padding-left: 7px;
+}
+
+.col-gutter-s-btm-right {
+    padding-right: 7px;
+}
+
+.col-gutter-s-btm-both {
+    padding-right: 7px;
+    padding-left: 7px;
+}
+
+.col-gutter-n-btm-left {
+    padding-left: 15px;
+}
+
+.col-gutter-n-btm-right {
+    padding-right: 15px;
+}
+
+.col-gutter-n-btm-both {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+@media (min-width: 419px) {
+    .col-gutter-z-xs-left {
+        padding-left: 0;
+    }
+
+    .col-gutter-z-xs-right {
+        padding-right: 0;
+    }
+
+    .col-gutter-z-xs-both {
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    .col-gutter-s-xs-left {
+        padding-left: 7px;
+    }
+
+    .col-gutter-s-xs-right {
+        padding-right: 7px;
+    }
+
+    .col-gutter-s-xs-both {
+        padding-right: 7px;
+        padding-left: 7px;
+    }
+
+    .col-gutter-n-xs-left {
+        padding-left: 15px;
+    }
+
+    .col-gutter-n-xs-right {
+        padding-right: 15px;
+    }
+
+    .col-gutter-n-xs-both {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+}
+
+@media (min-width: 578px) {
+    .col-gutter-z-sm-left {
+        padding-left: 0;
+    }
+
+    .col-gutter-z-sm-right {
+        padding-right: 0;
+    }
+
+    .col-gutter-z-sm-both {
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    .col-gutter-s-xs-left {
+        padding-left: 7px;
+    }
+
+    .col-gutter-s-xs-right {
+        padding-right: 7px;
+    }
+
+    .col-gutter-s-xs-both {
+        padding-right: 7px;
+        padding-left: 7px;
+    }
+
+    .col-gutter-n-xs-left {
+        padding-left: 15px;
+    }
+
+    .col-gutter-n-xs-right {
+        padding-right: 15px;
+    }
+
+    .col-gutter-n-xs-both {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+}
+
+@media (min-width: 768px) {
+    .col-gutter-z-md-left {
+        padding-left: 0;
+    }
+
+    .col-gutter-z-md-right {
+        padding-right: 0;
+    }
+
+    .col-gutter-z-md-both {
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    .col-gutter-s-md-left {
+        padding-left: 7px;
+    }
+
+    .col-gutter-s-md-right {
+        padding-right: 7px;
+    }
+
+    .col-gutter-s-md-both {
+        padding-right: 7px;
+        padding-left: 7px;
+    }
+
+    .col-gutter-n-md-left {
+        padding-left: 15px;
+    }
+
+    .col-gutter-n-md-right {
+        padding-right: 15px;
+    }
+
+    .col-gutter-n-md-both {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+}
+
+@media (min-width: 992px) {
+    .col-gutter-z-lg-left {
+        padding-left: 0;
+    }
+
+    .col-gutter-z-lg-right {
+        padding-right: 0;
+    }
+
+    .col-gutter-z-lg-both {
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    .col-gutter-s-lg-left {
+        padding-left: 7px;
+    }
+
+    .col-gutter-s-lg-right {
+        padding-right: 7px;
+    }
+
+    .col-gutter-s-lg-both {
+        padding-right: 7px;
+        padding-left: 7px;
+    }
+
+    .col-gutter-n-lg-left {
+        padding-left: 15px;
+    }
+
+    .col-gutter-n-lg-right {
+        padding-right: 15px;
+    }
+
+    .col-gutter-n-lg-both {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .col-gutter-z-xl-left {
+        padding-left: 0;
+    }
+
+    .col-gutter-z-xl-right {
+        padding-right: 0;
+    }
+
+    .col-gutter-z-xl-both {
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    .col-gutter-s-xl-left {
+        padding-left: 7px;
+    }
+
+    .col-gutter-s-xl-right {
+        padding-right: 7px;
+    }
+
+    .col-gutter-s-xl-both {
+        padding-right: 7px;
+        padding-left: 7px;
+    }
+
+    .col-gutter-n-xl-left {
+        padding-left: 15px;
+    }
+
+    .col-gutter-n-xl-right {
+        padding-right: 15px;
+    }
+
+    .col-gutter-n-xl-both {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+}

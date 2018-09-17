@@ -1,0 +1,83 @@
+.col-btm-0, .col-btm-1, .col-btm-2, .col-btm-3, .col-btm-4, .col-btm-5, .col-btm-6, .col-btm-7, .col-btm-8, .col-btm-9, .col-btm-10, .col-btm-11, .col-btm-12 {
+  float: left;
+}
+
+.col-btm-12 {
+  width: 100%;
+}
+.col-btm-11 {
+  width: 91.66666667%;
+}
+.col-btm-10 {
+  width: 83.33333333%;
+}
+.col-btm-9 {
+  width: 75%;
+}
+.col-btm-8 {
+  width: 66.66666667%;
+}
+.col-btm-7 {
+  width: 58.33333333%;
+}
+.col-btm-6 {
+  width: 50%;
+}
+.col-btm-5 {
+  width: 41.66666667%;
+}
+.col-btm-4 {
+  width: 33.33333333%;
+}
+.col-btm-3 {
+  width: 25%;
+}
+.col-btm-2 {
+  width: 16.66666667%;
+}
+.col-btm-1 {
+  width: 8.33333333%;
+}
+.col-btm-0 {
+  width: 8.33333333%;
+}
+
+.col-btm-offset-12 {
+  margin-left: 100%;
+}
+.col-btm-offset-11 {
+  margin-left: 91.66666667%;
+}
+.col-btm-offset-10 {
+  margin-left: 83.33333333%;
+}
+.col-btm-offset-9 {
+  margin-left: 75%;
+}
+.col-btm-offset-8 {
+  margin-left: 66.66666667%;
+}
+.col-btm-offset-7 {
+  margin-left: 58.33333333%;
+}
+.col-btm-offset-6 {
+  margin-left: 50%;
+}
+.col-btm-offset-5 {
+  margin-left: 41.66666667%;
+}
+.col-btm-offset-4 {
+  margin-left: 33.33333333%;
+}
+.col-btm-offset-3 {
+  margin-left: 25%;
+}
+.col-btm-offset-2 {
+  margin-left: 16.66666667%;
+}
+.col-btm-offset-1 {
+  margin-left: 8.33333333%;
+}
+.col-btm-offset-0 {
+  margin-left: 0;
+}
